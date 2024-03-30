@@ -1,5 +1,8 @@
 # IT-Company-Website
 
+<img width="1440" alt="Screenshot 2024-03-31 at 2 13 24 AM" src="https://github.com/anushadk13/Project-2-nexus-info/assets/122234698/ca0778d3-a0c1-48b4-bd28-f1b3543866b3">
+
+
 
 
 ## Overview
